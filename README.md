@@ -1,2 +1,2 @@
 # Todo-list-application
-I have created a todo list application and I want to share it with you.
+I have build a todo list application and i want to share it with you.
